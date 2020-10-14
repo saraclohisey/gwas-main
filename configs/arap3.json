@@ -1,0 +1,13 @@
+{
+    "graphdir":"~/Desktop/temp/",
+    "label":"twas",
+    "plotcolors":[
+    	"#9dc6db",
+    	"#2975A7"
+    ],
+	"manhattan_highlightlist": [
+		"ARAP3"
+		],
+	"ylim":[]
+
+}

@@ -1,0 +1,28 @@
+{
+    "graphdir":"~/Desktop/temp/",
+    "label":"twas",
+    "plotcolors":[
+    	"#9dc6db",
+    	"#2975A7"
+    ],
+	"manhattan_highlightlist": [
+		["TNFSF12",1,3],
+		"SRP14",
+		"CXCR6",
+		["SLC41A1",1,2],
+		"OGFRP1",
+		["OAS3",1,3],
+		"CCR3",
+		"TOMM7",
+		"MAT2B",
+		"CCR2",
+		["IFNAR2",1,1.2],
+		["SRPK1",1,1.6],
+		["DPP9",1,2.7],
+		"TICAM",
+		["ICAM5",1,1.6],
+		"TRIM24"
+		],
+	"ylim":[]
+
+}
